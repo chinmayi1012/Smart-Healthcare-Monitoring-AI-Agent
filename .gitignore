@@ -1,1 +1,8 @@
 
+<<<<<<< HEAD
+=======
+health.db
+__pycache__/
+*.pyc
+.streamlit/
+>>>>>>> 577463a (Update gitignore)
